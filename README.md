@@ -152,8 +152,6 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
     * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
-    * [Tools](#tools-2)
-      * [Sentinel AI](#sentinel-ai-2026) (2026)
   * [Ruby](#ruby)
     * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
@@ -718,12 +716,6 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 **Released**: June 21, 2014
 
 A wiki maintained by the OWASP Python Security project.
-
-## Tools
-
-### [Sentinel AI](https://github.com/MaxwellCalkin/sentinel-ai) (2026)
-
-Real-time safety guardrails for LLM applications: prompt injection detection (12 languages), PII redaction, OWASP code vulnerability scanning, dangerous tool call blocking. Sub-millisecond latency, zero ML dependencies. Apache 2.0.
 
 # Ruby
 
